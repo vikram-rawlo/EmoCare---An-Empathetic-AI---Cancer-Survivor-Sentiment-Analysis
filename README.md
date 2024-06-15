@@ -40,7 +40,7 @@ The provided information about the dataset doesn't explicitly specify the featur
 
 ## Methodology:
 
-**Algorithm Selection**: The project utilizes straightforward algorithms including XGBoost, Random Forest, and MLP (Multi-Layer Perceptron). These were chosen for their simplicity and effectiveness in handling NLP tasks, especially given the initial complexity typically associated with more advanced models like LSTMs or transformers.
+**Algorithm Selection**: The project utilizes straightforward algorithms including XGBoost, Random Forest, and MLP (Multi-Layer Perceptron). These were chosen for their simplicity and effectiveness in handling NLP tasks, especially given the initial complexity typically associated with more advanced models like Large Language Mmodels (LLM's), LSTMs or transformers.
 
 **Performance**: The model achieved around 72% accuracy on the test set, demonstrating its capability to discern sentiment across a range of reviews.
 
