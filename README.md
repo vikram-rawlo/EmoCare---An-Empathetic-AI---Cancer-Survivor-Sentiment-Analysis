@@ -57,7 +57,7 @@ Future iterations of the project may explore more sophisticated NLP models to im
 
 Clone Repository
 ```
-git clone https://github.com/vikram-rawlo/Credit-Card-Recommender-System.git
+git clone https://github.com/vikram-rawlo/EmoCare---An-Empathetic-AI---Cancer-Survivor-Sentiment-Analysis.git
 
 ```
 Install Requirements
